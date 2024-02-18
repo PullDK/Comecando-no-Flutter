@@ -5,4 +5,4 @@ Este será o meu primeiro projeto no Flutter, onde testarei minhas habilidades. 
 Estarei colocando abaixo todas as alterações do projeto, mostrando o que fiz, o que estou tentando fazer e, se tiver vontade, farei um vídeo explicando como consegui. Se não conseguir, farei um vídeo perguntando como resolver o erro, para que quem estiver aprendendo tenha uma ideia de como conseguir corrigir os problemas.
 
 ### Projeto 1
-1. estudando kkk
+1. ainda estudando
