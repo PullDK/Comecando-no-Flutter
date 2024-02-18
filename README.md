@@ -7,4 +7,3 @@ Estarei colocando abaixo todas as alterações do projeto, mostrando o que fiz, 
 ---
 ### Projeto 1
 1. ainda estudando
-2. teste
