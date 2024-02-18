@@ -1,16 +1,8 @@
-# teste
+# Começando no Flutter
+Este será o meu primeiro projeto no Flutter, onde testarei minhas habilidades. Portanto, neste repositório, haverá muitos bugs e os códigos estarão um tanto mal escritos.
 
-A new Flutter project.
+## O começo
+Estarei colocando abaixo todas as alterações do projeto, mostrando o que fiz, o que estou tentando fazer e, se tiver vontade, farei um vídeo explicando como consegui. Se não conseguir, farei um vídeo perguntando como resolver o erro, para que quem estiver aprendendo tenha uma ideia de como conseguir corrigir os problemas.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Projeto 1
+1. estudando kkk
