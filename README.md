@@ -6,8 +6,4 @@ Estarei colocando abaixo todas as alterações do projeto, mostrando o que fiz, 
 
 ---
 ### Projeto 1
-<<<<<<< HEAD
-1. ainda estudandosg
-=======
-1. estudando kkk
->>>>>>> 17e1bbe0e0f154f80b217a9a8911e51d1123be11
+1. ainda estudando
