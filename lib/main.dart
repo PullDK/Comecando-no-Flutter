@@ -29,10 +29,11 @@ class MyApp extends StatelessWidget {
         //
         // This works for code too, not just values: Most code changes can be
         // tested with just a hot reload.
-        colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
+        colorScheme:
+            ColorScheme.fromSeed(seedColor: Color.fromARGB(255, 247, 247, 247)),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'Marlon é muito burro pqp'),
     );
   }
 }
@@ -57,7 +58,7 @@ class MyHomePage extends StatefulWidget {
 
 // comentario teste
 class _MyHomePageState extends State<MyHomePage> {
-  int _counter = 0;
+  int _counter = 20;
 
   void _incrementCounter() {
     setState(() {
@@ -66,7 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
       // so that the display can reflect the updated values. If we changed
       // _counter without calling setState(), then the build method would not be
       // called again, and so nothing would appear to happen.
-      _counter++;
+      _counter += 30;
     });
   }
 
@@ -108,7 +109,7 @@ class _MyHomePageState extends State<MyHomePage> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             const Text(
-              'You have pushed the button this many times:',
+              'vai tomar no cu razzygp:',
             ),
             Text(
               '$_counter',
