@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 void main() {
   runApp(const MyApp());
 }
+
 // dasdaw
 class MyApp extends StatelessWidget {
   const MyApp({super.key});
@@ -54,6 +55,7 @@ class MyHomePage extends StatefulWidget {
   State<MyHomePage> createState() => _MyHomePageState();
 }
 
+// comentario teste
 class _MyHomePageState extends State<MyHomePage> {
   int _counter = 0;
 
